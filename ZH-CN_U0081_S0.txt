@@ -1,0 +1,143 @@
+ZH-CN_U0081_S0_2	<MIX> Hello 你好。
+ZH-CN_U0081_S0_4	<CN> 对对对，您是邵先生是吗？
+ZH-CN_U0081_S0_6	<CN> 我也很高兴。那我想问一下您，就是通常在闲暇时间会做一些什么事情呢？就是来放松自己。
+ZH-CN_U0081_S0_8	<CN> 嗯嗯，好。
+ZH-CN_U0081_S0_10	<CN> 那是男孩儿还是女孩儿呢？
+ZH-CN_U0081_S0_14	<CN> 那您是那种，就是周一到周五上班，然后周六周日双休的那种工作吗？
+ZH-CN_U0081_S0_16	<CN> <FIL/> 那其实我这边儿也是 <FIL/> 早晨大概九点上班，然后晚上周一是六点半，然后平时是六点也不是很忙，然后也是双休。
+ZH-CN_U0081_S0_18	<CN> <SPK/> 也不算新鲜了，就是我现在是在那个 <FIL/> 银行工作，然后是后台数据分析岗，然后其实是去年才入职的，然后到现在差不多还还不到，还工作不到一年呢。然后。
+ZH-CN_U0081_S0_20	<CN> 对对对，我是第一份儿工作，因为就可能工作时间比较晚吧。他们我看周围好多同事都是大学毕业，就 <FIL/> 工作了，然后我是读完研究生之后才工作的。
+ZH-CN_U0081_S0_22	<CN> 谢谢。
+ZH-CN_U0081_S0_24	<CN> 对对，我现在就是社交圈儿呢，可能就是一部分占大头的首先是同事吧，因为都是同一批入职的，然后可能就是十几个人有时候爬爬山啊，然后就是打打球。 <FIL/> 下周我们还有一个那个羽毛球比赛，所以这两天还在训练。
+ZH-CN_U0081_S0_26	<CN> 嗯。
+ZH-CN_U0081_S0_28	<CN> 对对，是是是在北京，那想了解一下，您就是平时的这个社交圈都有些谁呢？
+ZH-CN_U0081_S0_32	<CN> 嗯。
+ZH-CN_U0081_S0_34	<CN> 同事。
+ZH-CN_U0081_S0_36	<CN> 嗯。
+ZH-CN_U0081_S0_38	<CN> <FIL/> 那不错，居家好男人 <SPK/> 。
+ZH-CN_U0081_S0_40	<CN> 嗯。
+ZH-CN_U0081_S0_42	<CN> 嗯嗯嗯，十二岁，那是六年级了，是吗？
+ZH-CN_U0081_S0_44	<CN> 嗯。
+ZH-CN_U0081_S0_46	<CN> 嗯。
+ZH-CN_U0081_S0_48	<CN> 嗯。
+ZH-CN_U0081_S0_50	<CN> 那那也可以督促你好好学习了 <SPK/> 。
+ZH-CN_U0081_S0_54	<CN> 嗯，那平时就是你们会一起做饭，还是谁家里是谁做饭呢？
+ZH-CN_U0081_S0_56	<CN> 老人，哦，那您是就是一个大家庭一起就住在一起是吗？
+ZH-CN_U0081_S0_58	<CN> 哦。
+ZH-CN_U0081_S0_60	<CN> 嗯。
+ZH-CN_U0081_S0_62	<CN> 啊，挺喜欢的，就是比较喜欢狗狗，然后但是就是一直想养，可能就是养过朋友的小宠物一段时间，但是家里人不太支持，因为收拾的话可能还是得妈妈收拾，所以她懒得去捡那个便便和那个毛，所以就不太想让我养，就是您您家养宠物了吗？
+ZH-CN_U0081_S0_64	<CN> 嗯。
+ZH-CN_U0081_S0_66	<CN> 啊。
+ZH-CN_U0081_S0_68	<CN> 嗯。
+ZH-CN_U0081_S0_70	<CN> <FIL/> 而且就平时的话还得下去遛狗，就是可能早上一次，晚上一次，就还挺累的。
+ZH-CN_U0081_S0_72	<CN> 嗯。
+ZH-CN_U0081_S0_74	<CN> 我现在就是没有办法养它，因为就可能住所不固定，而且就是在自助合租的话，可能它有那个明文规定，尽量是不要养宠物。因为你不知道你的合租舍友就是介不介意，或者害不害怕小猫小狗。所以一般是不太让养，就是养的话只能在家里，但是可能家里人也不是很支持，所以就没有机会。
+ZH-CN_U0081_S0_76	<CN> 嗯，对，因为刚毕业嘛，我们这一批可能都是在北京，就是公司周围的房子租房。
+ZH-CN_U0081_S0_78	<CN> 我是那个山西太原的，其实感觉山西挺多，来北京这边。
+ZH-CN_U0081_S0_80	<EN> Yeah.
+ZH-CN_U0081_S0_82	<MIX> <FIL/> <FIL/> 比如说一些 <FIL/> noodles <FIL/> 就是会比较 special <FIL/> 因为我们那边 noodles 比较出名，然后再配上一些 vinegar <FIL/> 就是比较有风味的感觉。
+ZH-CN_U0081_S0_83	<CN> <FIL/> 那您 <FIL/> 就是因为您是北京人，那就是烤鸭方面的话，有没有什么推荐的店呢？
+ZH-CN_U0081_S0_85	<EN> Gross, yeah.
+ZH-CN_U0081_S0_87	<CN> 嗯。
+ZH-CN_U0081_S0_89	<MIX> <FIL/> But but but I think <FIL/> some people believe <FIL/> 内脏 is gross, but I think it's delicious. I like yeah yeah yeah, I like it very much. I think it's <FIL/> wonderful.
+ZH-CN_U0081_S0_90	<MIX> Yeah, and my my mother and <FIL/> my father also like it. So we 我们经常一起，就是就是他们有时候来北京看我，会 eat together。
+ZH-CN_U0081_S0_92	<MIX> Yeah，yeah，yeah，牛街。
+ZH-CN_U0081_S0_94	<MIX> Okay，okay，<FIL/> 还有簋街。
+ZH-CN_U0081_S0_96	<EN> <FIL/> Really?
+ZH-CN_U0081_S0_98	<EN> <SPK/> Yeah yeah.
+ZH-CN_U0081_S0_100	<MIX> 那他什么时候 built 的呢？
+ZH-CN_U0081_S0_102	<EN> <FIL/> Twenty years ago.
+ZH-CN_U0081_S0_104	<MIX> Yeah yeah yeah 小龙虾 and 螃蟹 is delicious。
+ZH-CN_U0081_S0_106	<MIX> <FIL/> Also <FIL/> there are some 广东的美食，it's very good，recommend you <SPK/> 。
+ZH-CN_U0081_S0_108	<CN> 牛街。
+ZH-CN_U0081_S0_110	<EN> <FIL/> Yeah yeah, long queues takes a lot time.
+ZH-CN_U0081_S0_112	<EN> <FIL/> Such such as.
+ZH-CN_U0081_S0_114	<CN> <FIL/> 年糕。
+ZH-CN_U0081_S0_116	<CN> 嗯，好好好。
+ZH-CN_U0081_S0_117	<EN> You can send it to me. Thank you so much.
+ZH-CN_U0081_S0_119	<CN> 都还可以。
+ZH-CN_U0081_S0_121	<MIX> <FIL/> I know other place 四季民福。
+ZH-CN_U0081_S0_123	<MIX> Very similar。 Okay <FIL/> ，what about the price 价格呢。
+ZH-CN_U0081_S0_125	<CN> 可能二百左右是吗？
+ZH-CN_U0081_S0_127	<CN> 好像，我我记得好像是。
+ZH-CN_U0081_S0_129	<MIX> 那公司组织可能就 free 了。
+ZH-CN_U0081_S0_131	<EN> Okay.
+ZH-CN_U0081_S0_133	<EN> Okay.
+ZH-CN_U0081_S0_137	<EN> Actually, I didn't <FIL/> stay in Taiyuan for a long time. <FIL/> may most of the time I spend <FIL/> in Beijing because I study there for about.
+ZH-CN_U0081_S0_138	<EN> <FIL/> Almost three years. So err and I very like Beijing. <FIL/> Okay, <FIL/> and I want to know what's something charming about Beijing <FIL/> at your point.
+ZH-CN_U0081_S0_140	<EN> Yeah.
+ZH-CN_U0081_S0_142	<EN> Three things.
+ZH-CN_U0081_S0_144	<EN> Variety. Okay, okay, I got it.
+ZH-CN_U0081_S0_146	<EN> Okay.
+ZH-CN_U0081_S0_148	<EN> Right?
+ZH-CN_U0081_S0_150	<EN> <FIL/> Near my near my play my place I I I live, <FIL/> I heard. I know a place <FIL/> called Shan Shanxi <FIL/> cut, knife cut noodles, and it's very delicious. I went there several times. And.
+ZH-CN_U0081_S0_152	<EN> I really like it. <FIL/> I Yeah, I I I want to know another thing about you. <FIL/> What a personal touch that makes you unique?
+ZH-CN_U0081_S0_154	<EN> Yeah yeah yeah yeah, <FIL/> because I, now am twenty six, <FIL/> we, you you are forty four. <FIL/> You must know something I never know and never heard. So you must be unique, and I I think everyone is unique.
+ZH-CN_U0081_S0_156	<EN> Conflict.
+ZH-CN_U0081_S0_160	<EN> yeah.
+ZH-CN_U0081_S0_162	<EN> No no no. You look young, you look young.
+ZH-CN_U0081_S0_164	<EN> <FIL/> I think I am very caring and and maybe a little talented. <FIL/> And my ** like my healing ability and exceptional intellect, and my ability to choose others hearts enables me to offer warmth and support in my interaction.
+ZH-CN_U0081_S0_165	<EN> Additionally, and my super superior brain power and remarkable memory facility, <FIL/> efficient learning and problem solving.
+ZH-CN_U0081_S0_166	<EN> <FIL/> More more moreover, I value details and <FIL/> priority listening to others need, <FIL/> and I really care about <FIL/> other people, and want to help others and fostering a sense of <FIL/> care and consideration and. And this personal choose contribute to my uniqueness and charm I I think. Yeah, and.
+ZH-CN_U0081_S0_168	<EN> Yeah yeah, we train <FIL/> we train several times this we this weekend. It's very stressful. <FIL/> Yeah, because.
+ZH-CN_U0081_S0_170	<EN> <FIL/> Not not very good, but I think <FIL/> I can do well.
+ZH-CN_U0081_S0_172	<CN> 行。
+ZH-CN_U0081_S0_176	<MIX> 科技的话，其实我的工作中也会用到一些科技的，因为我是那个数据分析嘛，然后现在在用那个 SAS 语言。在之前我其实没有学过这个 SAS，在学校里学的可能都是 <FIL/> python 呀 R 语言，还有一些 circle 是在实习中用到过，但是 SAS 其实是工作中才接触到的。
+ZH-CN_U0081_S0_177	<CN> 但是我感觉学得还还算挺快的，就是刚上手半年的话，也开始做项目了， <FIL/> 还挺喜欢的。
+ZH-CN_U0081_S0_179	<CN> <FIL/> 对，需要编程， <FIL/> 但是编程这块儿其实我觉得学校能帮助的真的不是很多，主要主要是靠自学，因为学校学的就就有一些死板嘛，然后可能你不如直接在这种工作的实战中直接用它的话，可能就是提升的更快一点 <FIL/> 。
+ZH-CN_U0081_S0_181	<CN> 对对对，就是有一些有一些思路是通用的，还有有一些语言 <FIL/> 有一些那个结构的话， <FIL/> 学校里学的是就是可能给你稍微打一些基础，然后 <FIL/> 别的语言可能就是它写的具体的代码不一样，但是其实整个思路都是一样的，比如说先定义一些变量。
+ZH-CN_U0081_S0_182	<CN> 然后再就是就是后续用到它去调用什么的，先定义一些宏之类的，您在这个工作中有用到一些就是科技方面的技术之类的吗？您是工作是哪方面呢？
+ZH-CN_U0081_S0_184	<CN> 设计。
+ZH-CN_U0081_S0_186	<CN> 哇哦。
+ZH-CN_U0081_S0_188	<CN> 很高大上。
+ZH-CN_U0081_S0_190	<MIX> 那是不是会用到 C A D 呢？
+ZH-CN_U0081_S0_192	<CN> 嗯。
+ZH-CN_U0081_S0_194	<CN> 三维的。
+ZH-CN_U0081_S0_196	<CN> 嗯嗯。
+ZH-CN_U0081_S0_198	<CN> <FIL/> 那您是主要负责用这个 <FIL/> 这些软件儿来设计出产品，然后就是设计稿，然后给到第三方是吗？
+ZH-CN_U0081_S0_200	<CN> 嗯。
+ZH-CN_U0081_S0_202	<CN> <FIL/> 那关于科技方面，就是您这个工作是更偏向于科技技术路线呢，还是管理方向呢？
+ZH-CN_U0081_S0_204	<CN> 技术方面。
+ZH-CN_U0081_S0_206	<CN> 嗯，更喜欢跟技术啊这种软件打交道的。
+ZH-CN_U0081_S0_207	<MIX> 那其实我也是可能比较内向，可能更喜欢对对科技然后运用科技可能更感兴趣一点。然后我前我之前听说了，就是跟这个您这个科技方面三 D 渲染什么的有关系。现在不是比较火的是一些 A I G C <FIL/> 这种技术。
+ZH-CN_U0081_S0_208	<CN> 然后可以直接把这个图放进去，然后生成就是你给它一些指令，然后可以生成您要的那种加工图什么的，你有没有用用到过呢？
+ZH-CN_U0081_S0_210	<CN> 嗯，视觉上。
+ZH-CN_U0081_S0_212	<CN> <FIL/> 但是您会担心，就是因为我前两天其实上了一个公开课那种简单的培训班，然后是关于这方面的，就让一个小白基本上从来没有接触过这方面的。
+ZH-CN_U0081_S0_213	<MIX> 通过一两周时间的这种<FIL/> 科技的培训， <FIL/> 其就是这种科技的培训，可以让他们达到一个非常 <FIL/> professional 的 <FIL/> level， <FIL/> 您怎么看呢？
+ZH-CN_U0081_S0_215	<CN> 是。
+ZH-CN_U0081_S0_217	<EN> ships.
+ZH-CN_U0081_S0_219	<EN> Yeah.
+ZH-CN_U0081_S0_223	<MIX> <FIL/> But I I notice that <FIL/> 就是现在有一些软件儿，它不光是做动画，因为做动画它只能生成大概 four minutes video. <FIL/> It can not <FIL/> 生成更长的视频。但是它可能用一些线稿儿 <FIL/> to <FIL/> produce some <FIL/> 就是一些 <FIL/> 模型。
+ZH-CN_U0081_S0_224	<MIX> 然后它就是从二 D 转换成三 D 这种，然后也是挺智能的，包括一些 design 家居设计这种。
+ZH-CN_U0081_S0_226	<CN> 为什么是逆逆向？ <FIL/> 您您是四四四三 D 是变成二 D。
+ZH-CN_U0081_S0_228	<EN> Ok.
+ZH-CN_U0081_S0_232	<EN> Ok.
+ZH-CN_U0081_S0_236	<MIX> 有可能，你 <FIL/> 可可能有有些人比较担心 <FIL/> 还有一些 smart 养老，就是一些比如说用 artificial intelligence <FIL/> to care for old people <FIL/> 就是这种模式。而且呢很多 thirty year young people <FIL/> 已经在住在这些养老院里，就是感觉，对，挺神奇。
+ZH-CN_U0081_S0_237	<MIX> 就是可能现在大家都不是很想 work is too tired， <FIL/> and and we all need freedom。 So。
+ZH-CN_U0081_S0_239	<MIX> 就是可能不想再 <FIL/> one company work for about <FIL/> thirty or forty years。 And it's terrible <SPK/> .
+ZH-CN_U0081_S0_241	<CN> 嗯。
+ZH-CN_U0081_S0_243	<CN> 嗯。
+ZH-CN_U0081_S0_245	<MIX> 就是其实 I think the security in bank is is very important。 <FIL/> 就是风险是银行最关注的东西，就是一切风险是高于一切的。哪怕它让你多 wait <FIL/> a few minutes <FIL/> 。
+ZH-CN_U0081_S0_246	<MIX> <FIL/> 或者一些 <FIL/> 比如说一些手机 app app，可能它更新 update 不如一些 <FIL/> 比如说支付宝这种互联网公司做的产品。但是它就是每一个流程都会经过层层审批，它可能确实会 slow 一点。
+ZH-CN_U0081_S0_248	<CN> 嗯 <FIL/> 。
+ZH-CN_U0081_S0_250	<MIX> Actually I I I can't help you about this question，because I just <FIL/> 后台工作人员，我只是现在对一些现有的 data <FIL/> 进行一些 analyze <FIL/> 比如说最近 of four months <FIL/> why 消费 <FIL/> 是下降的。然后我们回去在各个渠道各个维度去进行 analyze。
+ZH-CN_U0081_S0_251	<MIX> 分析为什么就是消费下降的原因，然后生成一份 report 递给 <FIL/> my leadership。
+ZH-CN_U0081_S0_253	<EN> <FIL/> I think it's <FIL/>.
+ZH-CN_U0081_S0_255	<EN> I think he's very <FIL/> security <FIL/> because we most of us, <FIL/> most the energy and money put in the security and <FIL/> maybe is <FIL/> more security than you in my in in in it. And I want to ask another question <FIL/> about your point <FIL/> .
+ZH-CN_U0081_S0_257	<EN> <FIL/> What home tech <FIL/> upgrade can make life easier.
+ZH-CN_U0081_S0_259	<EN> Yeah, cell phone.
+ZH-CN_U0081_S0_261	<EN> Yeah, but everyone needs cell phone.
+ZH-CN_U0081_S0_263	<EN> Yeah, now your dream come true.
+ZH-CN_U0081_S0_265	<EN> Okay.
+ZH-CN_U0081_S0_267	<EN> But I think at at at this area, China is <SPK/> very <FIL/> convenient than other country, and for.
+ZH-CN_U0081_S0_268	<EN> <FIL/> the question I ask you, I think the home tech upgrades, such as smart home systems, a robotic <FIL/> vacuum cleaners, <FIL/> smart speakers and smart security system <FIL/> can significantly enhance our daily lives.
+ZH-CN_U0081_S0_269	<EN> And and this upgrades allow us to control home appliance remotely.
+ZH-CN_U0081_S0_271	<EN> Like a <FIL/> such as I stand, I sit here, and I can <FIL/> control our my my homes.
+ZH-CN_U0081_S0_273	<EN> light and something else. <FIL/> It can save time <FIL/> more modern tasks, enjoy a convenient access to music and some other informations and ensure the safety of our homes.
+ZH-CN_U0081_S0_275	<EN> Really?
+ZH-CN_U0081_S0_277	<EN> Dishwasher，okay.
+ZH-CN_U0081_S0_279	<EN> <FIL/> I know, I I know what you mean. You you mean, maybe the company just want to <FIL/> your your money in your pocket, not really helps you in in your daily life.
+ZH-CN_U0081_S0_281	<EN> <FIL/> Yeah, but the price. But the price on T V really <FIL/> .
+ZH-CN_U0081_S0_283	<EN> Yeah, yeah, yeah, really <SPK/> .
+ZH-CN_U0081_S0_285	<EN> <FIL/> Actually the the T V in my home is just <FIL/> the the house <FIL/> belong to the original host. And I want to <FIL/> ask an another question I like how <FIL/> has online shop change retail. I want to know your <FIL/> understanding.
+ZH-CN_U0081_S0_287	<EN> Yeah.
